@@ -1,1 +1,1 @@
-# Crud_with_class-map-encapsulation
+Uas_Crud(class, map, encapsultaion)
